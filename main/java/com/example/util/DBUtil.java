@@ -6,7 +6,7 @@ public class DBUtil {
     // Update with your MySQL connection info
     private static final String URL = "jdbc:mysql://localhost:3306/employee_leave_db";
     private static final String USER = "root";
-    private static final String PASS = "Thisispto@14";
+    private static final String PASS = "pass123";
 
     static {
         try {
